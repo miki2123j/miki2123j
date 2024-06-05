@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @miki2123j
+- 👋 Hi, I’m Mikiyas Batu
 - 🌱 I’m currently learning Computer Science at York University
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me: https://www.linkedin.com/in/mikiyas-batu-43762a15b

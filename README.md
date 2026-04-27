@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Scrimba's FullStack Projects](https://github.com/miki2123j/FullStack_Projects)
 
-- 🌱 I’m currently learning **Srimba's FullStack Course**
+- 🌱 I’m currently learning **Scrimba's FullStack Course**
 
 - 👯 I’m looking to collaborate on **Fullstack projects**
 
